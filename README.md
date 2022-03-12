@@ -3,6 +3,10 @@
   
 <h2>How to install and run it</h2>
 <p> Python is not installed on your system and got docker? I gotch you.</p>
+<p> if not then install docker then run these commands</p> 
+
+`https://docs.docker.com/get-docker/`
+
 <p>First build the image</p> 
 
 `docker build -t tictactoe`
